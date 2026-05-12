@@ -1,0 +1,15 @@
+Library
+    - GSAP for animations
+    - Lenis - for smooth scrolling
+    - ReactJS - for UI
+
+Framework
+    - NextJS
+    - Angular
+
+exports
+    1. Named exports - 
+    2. default exports - 
+
+JSX - JS XML - html in JS
+vite - bundler used to create folders
