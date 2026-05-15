@@ -1,0 +1,3 @@
+- How to load images without the button get data
+- Pagination - page loading smoothly without lag
+- Infinte scrolling
